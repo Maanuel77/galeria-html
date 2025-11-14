@@ -1,4 +1,10 @@
+.gallery-container {
+    text-align: center;
+    padding: 20px;
+}
+
 img {
-    border: 4px solid #333; /* Borde de color oscuro */
-    margin: 10px; /* Margen alrededor de cada imagen */
+    border: 4px solid #333;
+    margin: 15px;
+    display: inline-block;
 }
